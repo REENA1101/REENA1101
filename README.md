@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Reena Kumari</h1>
 <h3 align="center">A passionate Frontend Developer located in India</h3>
 
