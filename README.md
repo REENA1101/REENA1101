@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reena1101" alt="reena1101" /></a> </p>
 
-<img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/05ebb8a3-4dc8-461f-a2fe-876bc8997141"/>
+<img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/c460cced-f7c3-455c-8407-4092e5c91633"/>
 
 - 📝 I regularly write articles on 
 
