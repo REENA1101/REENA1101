@@ -10,7 +10,7 @@
 
 <img align="right" alt="coding" width="250" marginLeft="30px" src="https://github.com/user-attachments/assets/c460cced-f7c3-455c-8407-4092e5c91633"/>
 
-- 📝 I regularly write articles on HashNode and Dev Community
+- 📝 I regularly write articles on
 
 - 💬 Ask me about **HTML, CSS, JS and React**
 
@@ -25,10 +25,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/reena1101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/reena1101" height="30" width="40" /></a>    
-<a href="https://dev.to/https://dev.to/codesoup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/codesoup" height="30" width="40" /></a>  
+<a href="https://dev.to/https://dev.to/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/" height="30" width="40" /></a>  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/reenk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/reenk/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/reenakvs1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/reenakvs1" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://codersoup.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://codersoup.hashnode.dev/" height="30" width="40" /></a>
+<a href="https://hashnode.com//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://codersoup.hashnode.dev/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/reenakvs1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/reenakvs1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/reena1101/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/reena1101/" height="30" width="40" /></a>
 </p>
@@ -39,6 +39,7 @@
 <br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reena1101&show_icons=true&locale=en&layout=compact" alt="reena1101" /></p>
+<br/>
 <br/>
 <br/>
 <br/>
