@@ -1,4 +1,4 @@
-![logo](https://github.com/user-attachments/assets/4e9f1b18-15bd-4998-869c-3278106c698b)
+![logo](https://github.com/user-attachments/assets/a60f95d9-03b3-451a-91b8-3cf99b713c49)
 <h1 align="center">Hi 👋, I'm Reena Kumari</h1>
 <h3 align="center">A passionate Frontend Developer located in India</h3>
 
