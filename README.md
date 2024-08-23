@@ -10,7 +10,7 @@
 
 <img align="right" alt="coding" width="250" marginLeft="30px" src="https://github.com/user-attachments/assets/c460cced-f7c3-455c-8407-4092e5c91633"/>
 
-- 📝 I regularly write articles on 
+- 📝 I regularly write articles on HashNode and Dev Community
 
 - 💬 Ask me about **HTML, CSS, JS and React**
 
