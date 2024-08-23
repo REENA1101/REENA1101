@@ -6,7 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reena1101" alt="reena1101" /></a> </p>
 
-<img align="right" alt="coding" width="400" src="(https://github.com/user-attachments/assets/efd7f339-7d99-4173-8086-e8b7b70b255a)">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/05ebb8a3-4dc8-461f-a2fe-876bc8997141)
+">
 
 - 📝 I regularly write articles on (https://dev.to/codesoup , https://codersoup.hashnode.dev/)
 
