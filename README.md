@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Reena Kumari</h1>
 <h3 align="center">A passionate Frontend Developer located in India</h3>
 
-<img align="right" alt="coding" width="400" src="(https://github.com/user-attachments/assets/e57edf0d-45e3-4a7e-bb0e-3d8a7e7876fb)"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reena1101&label=Profile%20views&color=0e75b6&style=flat" alt="reena1101" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reena1101" alt="reena1101" /></a> </p>
+
+<img align="right" alt="coding" width="400" src="(https://github.com/user-attachments/assets/e57edf0d-45e3-4a7e-bb0e-3d8a7e7876fb)">
 
 - 📝 I regularly write articles on (https://dev.to/codesoup , https://codersoup.hashnode.dev/)
 
