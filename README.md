@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reena1101" alt="reena1101" /></a> </p>
 
-- 📝 I regularly write articles on [https://dev.to/codesoup   https://codersoup.hashnode.dev/]
+- 📝 I regularly write articles on (https://dev.to/codesoup , https://codersoup.hashnode.dev/)
 
 - 💬 Ask me about **HTML, CSS, JS and React**
 
