@@ -1,6 +1,6 @@
 ![logo](https://github.com/user-attachments/assets/d6d69f7a-7659-4a7d-8b96-99bc513ef610)
 <h1 align="center">Hi 👋, I'm Reena K</h1>
-<h3 align="center">A passionate Frontend Developer located in India</h3>
+<h3 align="center">A passionate Frontend Developer located in Haryana, India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=reena1101&label=Profile%20views&color=0e75b6&style=flat" alt="reena1101" /> </p>
 
@@ -10,7 +10,7 @@
 
 <img align="right" alt="coding" width="250" marginLeft="30px" src="https://github.com/user-attachments/assets/c460cced-f7c3-455c-8407-4092e5c91633"/>
 
-- 📝 I regularly write articles on...
+- 📝 I regularly write articles on https://dev.to/codesoup , https://hashnode.com/@CoderSoup
 
 - 💬 Ask me about **HTML, CSS, JS and React**
 
