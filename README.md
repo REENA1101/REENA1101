@@ -1,5 +1,5 @@
 ![logo](https://github.com/user-attachments/assets/d6d69f7a-7659-4a7d-8b96-99bc513ef610)
-<h1 align="center">Hi 👋, I'm RR</h1>
+<h1 align="center">Hi 👋, I'm R</h1>
 <h3 align="center">A passionate Frontend Developer located in Haryana, India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=reena1101&label=Profile%20views&color=0e75b6&style=flat" alt="reena1101" /> </p>
